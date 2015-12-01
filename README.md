@@ -1,6 +1,7 @@
 # A non-comprehensive list of genomic data science learning resources
 
 - [Data Analysis for life sciences - Harvadx](http://genomicsclass.github.io/book/pages/classes.html)
+  
   A series of 7 online courses offered online on edx by Harvard professor, Rafael Irizarry and his lab members.
     + Statistics and R for the Life Sciences
     + Introduction to Linear Models and Matrix Algebra
@@ -15,7 +16,8 @@
   that can be downloaded for free.
   
 - [The Data Science Specialization on Coursera](https://www.coursera.org/specializations/jhudatascience) 
-  is an excellent place to start your R/data analysis journey, offered by Jeff Leek and 
+  
+  This is an excellent place to start your R/data analysis journey, offered by Jeff Leek and 
   Rogen D.Peng from John Hopkins University.
   
 
