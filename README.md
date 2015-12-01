@@ -12,13 +12,14 @@
     + Case Studies in Functional Genomics
     
   Click [here](http://genomicsclass.github.io/book) for the course Github page. Rafa has 
-  also published a book, [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences/) 
-  that can be downloaded for free. New courses start every four weeks.
+  also published a book for these series, [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences/) 
+  that can be downloaded for free. 
   
 - [The Data Science Specialization on Coursera](https://www.coursera.org/specializations/jhudatascience) 
   
   This is an excellent place to start your R/data analysis journey, offered by Jeff Leek and 
-  Roger D. Peng from John Hopkins University. They also offer a course on Reproducible Research. 
+  Roger D. Peng from John Hopkins University. They also offer a course on Reproducible Research.
+  New courses start every four weeks. 
   
 - [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomics)
 
