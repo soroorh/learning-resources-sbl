@@ -1,6 +1,7 @@
 # A non-comprehensive list of genomic data science learning resources
 
-Here is a list of online courses on data analysis for genomics. 
+Here is a list of online courses on data analysis for genomics. All the following courses can be taken for free. However, you
+you can also pay for a course, if you wish to earn a certificate. 
 
 - [Data Analysis for life sciences - Harvadx](http://genomicsclass.github.io/book/pages/classes.html)
   
@@ -23,8 +24,8 @@ Here is a list of online courses on data analysis for genomics.
   Roger D. Peng from John Hopkins University. They also offer a course on Reproducible Research.
   New courses start every four weeks. 
   
-  **My recommendations: Start with R Programming, Reproducible Research and Data Science Tool Box(Data Science Specilization),
-  if you are a R newbie. Try to do as much as Rafa courses as you can at the same time.**
+  **My recommendations:** Start with *R Programming*, *Reproducible Research* and *Data Science Tool Box*(Data Science Specilization),
+  if you are a R newbie. Try to do as much as Rafa courses as you can at the same time.
   
 - [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomics)
 
@@ -39,7 +40,7 @@ Here is a list of online courses on data analysis for genomics.
     + Statistics for Genomic Data Science
     + Genomic Data Science Capstone
     
-  **My Recommendations: Try Python for Genomic Data Science if you're new to Python and wish to learn it. Their Statistics for Genomic Data Science is also an excellent course on statistical genomics.**
+  **My Recommendations:** Try *Python for Genomic Data Science* if you're new to Python and wish to learn it. Their *Statistics for Genomic Data Science* is also an excellent course on statistical genomics.
     
 - [Data wrangling, exploration, and analysis with R](http://stat545-ubc.github.io/index.html)
 
@@ -49,9 +50,9 @@ Here is a list of online courses on data analysis for genomics.
   cover `Rmarkdown` and `Knitr` (for reproducible research), as well as version control ( `git` ) 
   and pipeline automation using `Make`.
   
-  **My recommendations: The materials are taught in a very simple language. The instructions
+  **My recommendations:** The materials are taught in a very simple language. The instructions
    are easy to follow, and every topic in explained in details. There are hands-on activities as well, if you wish
-   to practice the new skills that you learn.** 
+   to practice the new skills that you learn.
   
   
 ## Books
