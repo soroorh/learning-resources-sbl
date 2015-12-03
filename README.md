@@ -1,7 +1,6 @@
 # A non-comprehensive list of genomic data science learning resources
 
-Here is a list of online courses on data analysis for genomics. All the following courses can be taken for free. However, you
-you can also pay for a course, if you wish to earn a certificate. 
+Here is a list of online courses on data analysis for genomics. All the following courses can be taken for free. However, you can also pay for a course, if you wish to earn a certificate. 
 
 - [Data Analysis for life sciences - Harvadx](http://genomicsclass.github.io/book/pages/classes.html)
   
@@ -45,7 +44,7 @@ you can also pay for a course, if you wish to earn a certificate.
 - [Data wrangling, exploration, and analysis with R](http://stat545-ubc.github.io/index.html)
 
   The materials on this website are based on a couple of statistical courses that are offered
-  at The University of British Colombia. They cover basic R programming, as well as 
+  at The University of British Columbia. They cover basic R programming, as well as 
   popular R packages for data analysis such as `ggplot2`, `dplyr` and `tidyr`. The materials also
   cover `Rmarkdown` and `Knitr` (for reproducible research), as well as version control ( `git` ) 
   and pipeline automation using `Make`.
