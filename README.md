@@ -3,7 +3,7 @@
 Here is a list of online courses on data analysis for genomics. All the following courses can be taken for free. However, you can also pay for a course, if you wish to earn a certificate. 
 
 ## All the R thing!
------
+
 - [Data Analysis for life sciences - Harvadx](http://genomicsclass.github.io/book/pages/classes.html)
   
   A series of 7 online courses offered on edx.org by Harvard professor, Rafael Irizarry and his lab members.
@@ -56,16 +56,16 @@ Here is a list of online courses on data analysis for genomics. All the followin
    to practice the new skills that you learn.
   
 ## Programming with Python
------
+
 [Learn to program and analyze data with Python](https://www.coursera.org/specializations/python)
 
 
 ## [Software carpentry lessons](http://software-carpentry.org/index.html)
------
+
  
   
 ## Books
------
+
 - [R Programming for Data Science](https://leanpub.com/rprogramming/) by Roger D. Peng
 - [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences/) by Rafael Irizarry
 - [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do) by Vince Buffalo
